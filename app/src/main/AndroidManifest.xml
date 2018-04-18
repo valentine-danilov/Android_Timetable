@@ -22,7 +22,6 @@
         <activity
             android:name=".GroupActivity"
             android:label="@string/groups_label" />
-        <activity android:name=".DayActivity"></activity>
     </application>
 
 </manifest>
