@@ -1,0 +1,63 @@
+<resources xmlns:android="http://schemas.android.com/tools">
+    <string name="app_name">Timetable</string>
+    <string name="first_course">1st course</string>
+    <string name="second_course">2nd course</string>
+    <string name="third_course">3d course</string>
+    <string name="forth_course">4th course</string>
+    <string name="spec_label">Choose speciality:</string>
+    <string name="groups_label">Choose group:</string>
+    <string name="days_label">Choose day:</string>
+
+    <string name="itech">Information Technology</string>
+    <string name="am">Applied Mathematics</string>
+    <string name="cs">Computer Security</string>
+    <string name="ec">Economic Cybernetics</string>
+    <string name="actm">Actuarial Mathematics</string>
+    <string name="ait">Applied Informational Technology</string>
+
+    <string-array name="specialities">
+        <item>@string/itech</item>
+        <item>@string/am</item>
+        <item>@string/cs</item>
+        <item>@string/ec</item>
+        <item>@string/actm</item>
+        <item>@string/ait</item>
+    </string-array>
+
+    <string-array name="itech_groups">
+        <item>1 group</item>
+        <item>2 group</item>
+        <item>3 group</item>
+        <item>4 group</item>
+    </string-array>
+
+    <string-array name="appm_groups">
+        <item>5 group</item>
+        <item>6 group</item>
+        <item>7 group</item>
+        <item>8 group</item>
+    </string-array>
+
+    <string-array name="cs_groups">
+        <item>9 group</item>
+    </string-array>
+
+    <string-array name="ec_groups">
+        <item>10 group</item>
+    </string-array>
+
+    <string-array name="actm_groups">
+        <item>11 group</item>
+    </string-array>
+
+    <string-array name="ait_groups">
+        <item>12 group</item>
+        <item>13 group</item>
+    </string-array>
+        <item name="itech" type="id">Informational Technology</item>
+        <item name="am" type="id">Applied Mathematics</item>
+        <item name="cs" type="id">Computer security</item>
+        <item name="ec" type="id">Economic cybernetics</item>
+        <item name="arcm" type="id">Actuarial Mathematics</item>
+        <item name="ait" type="id">Applied Informational Technology</item>
+</resources>
